@@ -1,5 +1,8 @@
 import math # Import thư viện math để dùng số Pi (math.pi)
 
+# Khai báo một biến
+ten_bien = "Đây là một biến trong Python"
+
 # 1. Định nghĩa một hàm để tính diện tích
 def tinh_dien_tich_hinh_tron(ban_kinh):
     """
